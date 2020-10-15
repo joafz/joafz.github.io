@@ -1567,3 +1567,8 @@ body.offcanvas .colorlib-nav-toggle {
   float:left;
   margin-right:5px;
 }
+
+.gif {
+  width: 49%;
+  padding: 30px;
+}
